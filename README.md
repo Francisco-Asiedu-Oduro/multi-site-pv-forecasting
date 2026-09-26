@@ -21,7 +21,6 @@ The dataset contains more than 2.5 million 15-minute observations across 42 PV s
 Dataset source:
 [UNISOLAR — CDAC Lab](https://github.com/CDAC-lab/UNISOLAR/tree/main) [1]
 
-[Include the formal dataset citation here.]
 
 ## Forecasting Objective
 
