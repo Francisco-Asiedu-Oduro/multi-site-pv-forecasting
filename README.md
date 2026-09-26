@@ -124,16 +124,6 @@ The models use contemporaneous weather observations rather than numerical weathe
 
 Rated PV capacities were also unavailable, so observed site maximum generation was used where normalized site-level evaluation was required.
 
-## Future Work
-
-Possible extensions include:
-
-- Numerical weather prediction inputs
-- Probabilistic PV forecasting
-- Multiple forecast horizons
-- Transformer-based sequence models
-- Capacity-normalized modelling using rated plant capacities
-
 ## Tools
 
 Python, Pandas, NumPy, Matplotlib, Scikit-learn, XGBoost, TensorFlow/Keras
